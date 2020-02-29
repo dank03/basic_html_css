@@ -1,0 +1,19 @@
+.item {
+    height: 50px;
+    width: 50px;
+    background-color: #1100a8;
+    margin: 5px;
+}
+
+#item-1 {
+    background-color: aqua;
+}
+.link {
+    color: inherit;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p {
+    background-image: url("https://img.theculturetrip.com/1440x807/wp-content/uploads/2017/09/field-2513145_1280.jpg" );
+}
